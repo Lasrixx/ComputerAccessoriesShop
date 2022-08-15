@@ -1,0 +1,16 @@
+235066, keyboard, FLEXIBLE, Microsoft, black, WIRELESS, 5, 45.5, 60.0, UK
+112234, keyboard, GAMING, Corsair, black, WIRED, 1, 10.0, 40.99, UK
+001234, mouse, STANDARD, SteelSeries, white, WIRELESS, 3, 15.0, 30.0, 5
+112233, mouse, GAMING, Logitech, black, WIRELESS, 27, 7.5, 9.5, 3
+221122, mouse, GAMING, Razer, black, WIRED, 1, 28.0, 40.99, 7
+012344, mouse, STANDARD, Acer, black, WIRELESS, 10, 31.5, 66.99, 6
+123457, mouse, GAMING, Corsair, black, WIRELESS, 9, 5.0, 19.99, 3
+125567, keyboard, FLEXIBLE, Logitech, black, WIRELESS, 4, 25.99, 30.0, US
+123477, keyboard, GAMING, Corsair, Black, WIRED, 50, 40.0, 59.99, UK
+123456, keyboard, GAMING, Corsair, black, WIRED, 17, 30.0, 39.99, UK
+223044, mouse, GAMING, Anker, blue, WIRED, 3, 16.0, 18.5, 10
+238800, keyboard, FLEXIBLE, Microsoft, black, WIRED, 9, 26.5, 30.0, US
+234555, keyboard, STANDARD, Apple, white, WIRELESS, 10, 75.5, 85.5, US
+236677, mouse, STANDARD, Asus, blue, WIRELESS, 8, 10.0, 16.99, 5
+237788, keyboard, STANDARD, Logitech, grey, WIRED, 14, 6.5, 8.99, UK
+237799, mouse, STANDARD, Logitech, grey, WIRELESS, 13, 7.0, 8.0, 2
