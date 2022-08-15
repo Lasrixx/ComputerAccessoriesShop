@@ -1,7 +1,7 @@
 # ComputerAccessoriesShop
 System that allows a user to log in and purchase equipment or update stock. 
 
-This project was completed as coursework at Loughborough University, in which I recieved a First (94%) for my work.
+This project was completed as coursework at Loughborough University, in which I recieved a first (94%) for my work.
 
 The system administrator can log in to the system to view all stock.
 ![image](https://user-images.githubusercontent.com/109162139/184626339-09319e70-2eea-4c19-a781-85bfcd92001f.png)
